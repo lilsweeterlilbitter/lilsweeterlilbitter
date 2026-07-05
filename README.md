@@ -7,4 +7,5 @@ Driven Under - Seether
 
 ━━●━━━━━━━━  ♥︎
 
-⤷ ゛[more!](https://lilsweeterlilbitter.carrd.co/)  ˎˊ˗
+<img src="https://c.tenor.com/asrQwQgyi7EAAAAC/tenor.gif" width="350">
+
