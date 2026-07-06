@@ -56,4 +56,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%F0%9F%8D%AB%20stolen%20chocolates!!&color=FAB957&style=flat-square&abbreviated=true" alt="Profile views">
 
-  ꒰  .  ❤︎ 。[**sign my ata, pls**](https://lilsweeterlilbitter.atabook.org/) ! ◟ `` ˖
+  ꒰  .  ❤︎ 。[**sign my ata**](https://lilsweeterlilbitter.atabook.org/)   ! ◟ `` ˖
