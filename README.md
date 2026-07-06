@@ -2,9 +2,9 @@
 <img src="https://c.tenor.com/G9hk14-GPEMAAAAC/tenor.gif" width="350">
 
 <p align="center">
-<a href="https://open.spotify.com/search/I%20Bet%20on%20Losing%20Dogs">
-<img src="https://img.shields.io/badge/%20♪%20I%20Bet%20on%20Losing%20Dogs-Mitski-FAB957?style=flat-square&labelColor=FFF8EC&color=FAB957&logo=spotify&">
-</a>
+  <a href="https://open.spotify.com/search/I%20Bet%20on%20Losing%20Dogs">
+    <img src="https://img.shields.io/badge/%20♪%20I%20Bet%20on%20Losing%20Dogs-Mitski-FAB957?style=flat-square&labelColor=FFF8EC&logo=spotify&logoColor=black" alt="I Bet on Losing Dogs — Mitski">
+  </a>
 </p>
 
 <img src="https://c.tenor.com/asrQwQgyi7EAAAAC/tenor.gif" width="350"><a href="https://discordapp.com/users/873640105930260490">
