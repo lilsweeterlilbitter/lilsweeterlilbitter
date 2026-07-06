@@ -14,7 +14,7 @@
 
 <br>
 
-i get quiet to recharge, not to ignore • i listen even when I don't know what to say • i overthink, overfeel, and overanalyze • sometimes i'm awkward or shy and won't initiate interactions but i really like to talk • my connection is almost always laggy, lol, so pls be patient with me ♡
+> i get quiet to recharge, **not to ignore** • i listen even when idk know what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol, so pls *be patient* with me ♡
 
 </details>
 
@@ -23,7 +23,7 @@ i get quiet to recharge, not to ignore • i listen even when I don't know what 
 
 <br>
 
-basic dni criteria •  pls don't force opinions on me • don't talk to me abt caleb if you hate him or have negative opinions of him • keep things light • no bully/shaming even jokingly • dni for racism, sexism, political and religious topics • idc abt drama or gossip so pls keep it out of our convo
+> ***basic dni criteria&*** •  pls don't force opinions on me • *don't talk* to me abt **caleb** if you hate him or have negative opinions of him • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo
 
 </details>
 
@@ -32,7 +32,7 @@ basic dni criteria •  pls don't force opinions on me • don't talk to me abt 
 
 <br>
 
-i'm sensitive and prone to anxiety and sudden mood swings • trauma triggered by arachnophobia and seplophobia • may misread interactions sometimes • i might dissociate or get nonverbal if i'm overwhelmed • i'm struggling to regulate my feelings so pls don't take it to heart if i'm acting differently or become unintentionally rude sometimes • if i'm miscommunicating or forget something feel free to warn me! in most cases i'm not even aware of what i'm doing (ᵕ—ᴗ—)
+> i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • *trauma triggered* by arachnophobia and seplophobia • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or forget something, feel free to warn me! in most cases i'm not even aware of what i'm doing (ᵕ—ᴗ—)
 
 </details>
 
