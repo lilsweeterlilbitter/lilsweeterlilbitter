@@ -17,7 +17,7 @@
 • I get quiet to recharge, not to ignore.<br>
 • I listen even when I don't know what to say.<br>
 • I overthink, overfeel, and overanalyze.<br>
-• I'm still figuring things out.
+• I'm still figuring things out. 
 
 </details>
 
@@ -30,7 +30,7 @@
 • no racism, no sexism, no hate.<br>
 • no toxicity, no shaming/bullying.<br>
 • don't force opinions on me.<br>
-• let's keep it light.
+• let's keep it light. 
 
 </details>
 
@@ -42,7 +42,7 @@
 • I'm sensitive and occasionally anxious.<br>
 • Prone to sudden mood swings.<br>
 • Triggered by arachnophobia and seplophobia.<br>
-• May misread interactions sometimes.
+• May misread interactions sometimes. 
 
 </details>
 
