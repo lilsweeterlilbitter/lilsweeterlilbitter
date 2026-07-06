@@ -18,9 +18,8 @@
 • I'm listening even when I don't know what to say.<br>
 • I overthink, overfeel, and overanalyze.<br>
 • I'm still figuring things out.
-</details>
 
-<br>
+</details>
 
 <details>
 <summary>❛     ⸺     dni 𓈒</summary>
@@ -32,6 +31,18 @@
 • no toxicity, no shaming/bullying.<br>
 • don't force opinions on me.<br>
 • let's keep it light.
+
+</details>
+
+<details>
+<summary>❛     ⸺     notes 𓈒</summary>
+
+<br>
+
+• I'm sensitive and occasionally anxious.<br>
+• Prone to sudden mood swings.<br>
+• Triggered by arachnophobia and seplophobia.<br>
+• May misread interactions sometimes.
 
 </details>
 
