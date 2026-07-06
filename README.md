@@ -35,7 +35,6 @@
 
 </details>
 
-
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 <a href="https://discordapp.com/users/873640105930260490">
   <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-FAB957?style=flat-square" alt="Discord"></a>  •  <a href="https://www.tumblr.com/lilsweeterlilbitter?source=share">
