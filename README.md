@@ -15,7 +15,7 @@
 <br>
 
 • I get quiet to recharge, not to ignore.<br>
-• I'm listening even when I don't know what to say.<br>
+• I listen even when I don't know what to say.<br>
 • I overthink, overfeel, and overanalyze.<br>
 • I'm still figuring things out.
 
