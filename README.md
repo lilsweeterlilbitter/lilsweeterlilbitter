@@ -14,7 +14,7 @@
 
 <br>
 
-> i get quiet to recharge, **not to ignore** • i listen even when idk know what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol, so pls *be patient* with me ♡
+> i get quiet to recharge, **not to ignore** • i listen even when idk what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol, so *be patient* with me ♡
 
 </details>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-> ***basic dni criteria&*** •  pls don't force opinions on me • *don't talk* to me abt **caleb** if you hate him or have negative opinions of him • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo
+> ***basic dni criteria*** •  pls don't force opinions on me • *don't talk* to me abt **caleb** if you hate him or have negative opinions of him • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo
 
 </details>
 
