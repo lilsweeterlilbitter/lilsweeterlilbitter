@@ -50,7 +50,6 @@
 
 
 <a href="https://rentry.co/lilsweetlilbitter"><kbd>rentry</kbd></a>
-<a href="nopes :P"><kbd>more coming soon ♡</kbd></a>
 
 </details>
 
