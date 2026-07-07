@@ -47,3 +47,12 @@
 <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%F0%9F%8D%AB%20stolen%20chocolates!!&color=FAB957&style=flat-square&abbreviated=true" alt="Profile views">
 
   ꒰  .  ❤︎ 。[**sign my ata**](https://lilsweeterlilbitter.atabook.org/)   ! ◟ `` ˖
+  <details>
+<summary>ᶻᶻ  ‿ extras  ⑅</summary>
+
+<br>
+<a href="https://rentry.co/lilsweetlilbitter">
+  <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-FAB957?style=flat-square" alt="rentry"></a>  •  
+
+
+</details>
