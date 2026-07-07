@@ -45,14 +45,13 @@
   <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-FAB957?style=flat-square&" alt="Strawpage"></a>
 
 <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%F0%9F%8D%AB%20stolen%20chocolates!!&color=FAB957&style=flat-square&abbreviated=true" alt="Profile views">
-
-  ꒰  .  ❤︎ 。[**sign my ata**](https://lilsweeterlilbitter.atabook.org/)   ! ◟ `` ˖
-  <details>
+<details>
 <summary>ᶻᶻ  ‿ extras  ⑅</summary>
 
-<br>
-<a href="https://rentry.co/lilsweetlilbitter">
-  <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-FAB957?style=flat-square" alt="rentry"></a>  •  
 
+<a href="https://rentry.co/lilsweetlilbitter"><kbd>rentry</kbd></a>
+<a href="https://yourrentry2"><kbd>more coming soon ♡</kbd></a>
 
 </details>
+
+  ꒰  .  ❤︎ 。[**sign my ata**](https://lilsweeterlilbitter.atabook.org/)   ! ◟ `` ˖
