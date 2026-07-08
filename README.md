@@ -14,7 +14,7 @@
 
 <br>
 
-> i get quiet to recharge, **not to ignore** • i listen even when idk what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol, so *be patient* with me ♡
+> i get quiet to recharge, **not to ignore** • i listen even when idk what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol • i get confused quite easily so pls *be patient* with me ♡
 
 </details>
 
