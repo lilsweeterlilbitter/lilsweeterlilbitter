@@ -1,3 +1,6 @@
+<sub>
+𓏴𓏴　　do not copy my layout, skins, or profile. ty　　𓏼　
+</sub>
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
 <img src="https://c.tenor.com/G9hk14-GPEMAAAAC/tenor.gif" width="350">
 
