@@ -35,7 +35,7 @@
 
 <br>
 
-> i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • *trauma triggered* by arachnophobia and seplophobia • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or forget something, feel free to warn me! in most cases i'm not even aware of what i'm doing (ᵕ—ᴗ—)
+> i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or forget something, feel free to remind me! in most cases i'm not even aware of what i'm doing (ᵕ—ᴗ—)
 
 </details>
 
