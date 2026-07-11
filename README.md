@@ -49,10 +49,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%F0%9F%8D%AB%20stolen%20chocolates!!&color=FAB957&style=flat-square&abbreviated=true" alt="Profile views">
 <details>
-<summary>ᶻᶻ  ‿ extras  ⑅</summary>
+<summary>ᶻᶻ  ‿ rentry  ⑅</summary>
 
 
-<a href="https://rentry.co/lilsweetlilbitter"><kbd>rentry</kbd></a>
+<a href="https://rentry.co/lilsweetlilbitter"><kbd>main</kbd></a>   •   <a href="https://rentry.co/pt_rules"><kbd>ponytown</kbd></a>
 
 </details>
 
