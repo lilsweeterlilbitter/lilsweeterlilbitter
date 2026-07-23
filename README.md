@@ -43,7 +43,7 @@ will bully any batman on sight /jk ψ( ` ∇ ´ )ψ
 
 </details>
 
-︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+<img src="https://i.ibb.co/ZvC6PsL/Untitled24-20260723180206.png" width="350">
 
 <a href="https://discordapp.com/users/873640105930260490">
   <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-9B9EB1?style=flat-square" alt="Discord"></a>  •  <a href="https://www.tumblr.com/lilsweeterlilbitter?source=share">
@@ -61,3 +61,5 @@ will bully any batman on sight /jk ψ( ` ∇ ´ )ψ
 </details>
 
   ꒰  .  ❤︎ 。[**sign my ata**](https://lilsweeterlilbitter.atabook.org/)   ! ◟ `` ˖
+  
+︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
