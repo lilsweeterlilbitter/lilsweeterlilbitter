@@ -6,6 +6,6 @@
 
 ...
 
-<sub>ok, nvm...</sub>
+<sub>k, nvm...</sub>
 
-<img src="https://media1.tenor.com/m/xpB1mLrSzQwAAAAC/rhdip-red-hood.gif" width="220">
+<img src="https://c.tenor.com/xpB1mLrSzQwAAAAC/tenor.gif" width="220">
