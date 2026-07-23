@@ -36,6 +36,10 @@
 <br>
 
 > i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or *forget boundaries*, feel free to warn me! (ᵕ—ᴗ—)
+> 
+> <img src="https://media1.tenor.com/m/hqr9QYl_62sAAAAC/batman-arkham-knight-jason-todd.gif" width="200"> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌<sub>
+will bully any batman on sight /jk ψ( ` ∇ ´ )ψ
+</sub>
 
 </details>
 
