@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/2jjYaFU69BTiTNvfutSf2f?si=xUa6h6j1TcesedAnWzzoMw&utm_source=copy-link">
-    <img src="https://img.shields.io/badge/%20♪%20Driven%20Under-Seether-FAB957?style=flat-square&labelColor=FFF8EC&logo=spotify&logoColor=black" alt="Driven Under — Seether">
+    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-FAB957?style=flat-square&labelColor=FFF8EC&logo=spotify&logoColor=black" alt="Driven Under — Seether">
   </a>
 </p>
 
