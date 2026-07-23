@@ -5,8 +5,8 @@
 <img src="https://i.ibb.co/CDCWMtt/63d38b3b17136e4412ee737f3a17ee73-polarr-2.jpg" width="350">
 
 <p align="center">
-  <a href="https://open.spotify.com/track/2jjYaFU69BTiTNvfutSf2f?si=xUa6h6j1TcesedAnWzzoMw&utm_source=copy-link">
-    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-FAB957?style=flat-square&labelColor=FFF8EC&logo=spotify&logoColor=black" alt="Driven Under — Seether">
+  <a href="https://open.spotify.com/track/57yRy53PF4CNbttynfK92D?si=Y-4IdO67TDCW9Yq_u1umKA&utm_source=copy-link">
+    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-8A1831?style=flat-square&labelColor=9B9EB1&logo=spotify&logoColor=black" alt="Deaf Ears Blind Eyes— Alice In Chains">
   </a>
 </p>
 
@@ -42,12 +42,12 @@
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
 
 <a href="https://discordapp.com/users/873640105930260490">
-  <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-FAB957?style=flat-square" alt="Discord"></a>  •  <a href="https://www.tumblr.com/lilsweeterlilbitter?source=share">
-  <img src="https://img.shields.io/badge/%20❛%20tmblr%20𓈒%20-FAB957?style=flat-square&" alt="tumblr"></a>  •  <a href="https://lilsweeterlilbitter.carrd.co/">
-  <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-FAB957?style=flat-square" alt="Carrd"></a>  •  <a href="https://lilsweeterlilbitter.straw.page/">
-  <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-FAB957?style=flat-square&" alt="Strawpage"></a>
+  <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-9B9EB1?style=flat-square" alt="Discord"></a>  •  <a href="https://www.tumblr.com/lilsweeterlilbitter?source=share">
+  <img src="https://img.shields.io/badge/%20❛%20tmblr%20𓈒%20-9B9EB1?style=flat-square&" alt="tumblr"></a>  •  <a href="https://lilsweeterlilbitter.carrd.co/">
+  <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-9B9EB1?style=flat-square" alt="Carrd"></a>  •  <a href="https://lilsweeterlilbitter.straw.page/">
+  <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-9B9EB1?style=flat-square&" alt="Strawpage"></a>
 
-<img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%F0%9F%8D%AB%20stolen%20chocolates!!&color=FAB957&style=flat-square&abbreviated=true" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%F0%9F%8D%AB%20stolen%20chocolates!!&color=8A1831&style=flat-square&abbreviated=true" alt="Profile views">
 <details>
 <summary>ᶻᶻ  ‿ rentry  ⑅</summary>
 
