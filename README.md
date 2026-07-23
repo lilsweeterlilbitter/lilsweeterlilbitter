@@ -12,7 +12,7 @@
 
 <img src="https://i.ibb.co/xtPkwYrf/91320368b1191e53ec3b989f9517da7f-polarr-1.jpg" width="350"><a href="https://discordapp.com/users/873640105930260490">
 <p align="center">
-<sub><sup><a href="shhh.md">pssst...</a></sup></sub>
+<sub><sup><a href="shhh.md">ᵖˢˢˢᵗ</a></sup></sub>
 </p>
 
 ***
