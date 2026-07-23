@@ -8,4 +8,4 @@
 
 <sub>k, nvm...</sub>
 
-<img src="https://c.tenor.com/xpB1mLrSzQwAAAAC/tenor.gif" width="220">
+<img src="https://c.tenor.com/xpB1mLrSzQwAAAAd/tenor.gif" width="220">
