@@ -2,7 +2,7 @@
 𓏴𓏴　　do not copy my layout, skins, or profile pls and ty　　𓏼　
 </sub>
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
-<img src="https://c.tenor.com/G9hk14-GPEMAAAAC/tenor.gif" width="350">
+<img src="https://c.tenor.com/wiu8IvMiBHQAAAAC/tenor.gif" width="350">
 
 <p align="center">
   <a href="https://open.spotify.com/track/2jjYaFU69BTiTNvfutSf2f?si=xUa6h6j1TcesedAnWzzoMw&utm_source=copy-link">
