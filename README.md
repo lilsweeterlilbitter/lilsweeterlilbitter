@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-9B9EB1?style=flat-square" alt="Carrd"></a>  •  <a href="https://lilsweeterlilbitter.straw.page/">
   <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-9B9EB1?style=flat-square&" alt="Strawpage"></a>
 
-<img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20thrown%20batrangs!!&color=8A1831&style=flat-square&abbreviated=true" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊%20bats%20in%20the%20cave!!&color=8A1831&style=flat-square&abbreviated=true" alt="Profile views">
 <details>
 <summary>ᶻᶻ  ‿ rentry  ⑅</summary>
 
