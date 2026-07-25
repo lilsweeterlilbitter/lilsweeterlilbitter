@@ -31,7 +31,7 @@
 
 <br>
 
-> ***basic dni criteria*** •  pls don't force opinions on me • *don't talk* to me abt **caleb** if you hate him or have negative opinions of him • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo
+> ***basic dni criteria*** •  pls don't force opinions on me • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo ♡
 
 </details>
 
