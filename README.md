@@ -5,8 +5,8 @@
 <img src="https://i.ibb.co/v6L5ZZNG/20260725-122440.jpg" width="350">
 
 <p align="center">
-  <a href="https://open.spotify.com/track/57yRy53PF4CNbttynfK92D?si=Y-4IdO67TDCW9Yq_u1umKA&utm_source=copy-link">
-    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-D13958?style=flat-square&labelColor=F2B7C6&logo=spotify&logoColor=black" alt="Deaf Ears Blind Eyes— Alice In Chains">
+ <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=F2B7C6&style=flat-square&abbreviated=true" alt="Profile views"> <a href="https://open.spotify.com/track/57yRy53PF4CNbttynfK92D?si=Y-4IdO67TDCW9Yq_u1umKA&utm_source=copy-link">
+    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-D13958?style=flat-square&labelColor=F2B7C6&logo=spotify&logoColor=black" alt="Deaf Ears Blind Eyes — Alice In Chains">
   </a>
 </p>
 ‌
@@ -42,9 +42,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=F2B7C6&style=flat-square&abbreviated=true" alt="Profile views">
-</p>
 <details>
 <summary>ᶻᶻ  ‿ extras  ⑅</summary>
 
