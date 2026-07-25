@@ -13,7 +13,7 @@
 ‌
 <p align="center">
   
-⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](link) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ⠀[𝗻𝗼𝘁𝗲](link)　⏖   
+⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](rules.md) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ⠀[𝗻𝗼𝘁𝗲](link)　⏖   
 ⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝘀𝗰𝗿𝗮𝗽𝘀!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
  　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚
 </p>
