@@ -51,3 +51,4 @@
 </details>
 
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=F2B7C6&textColor=D13958&isRounded=true)
