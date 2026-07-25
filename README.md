@@ -13,7 +13,7 @@
 ‌
 <p align="center">
   
-⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](rules.md) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ⠀[𝗻𝗼𝘁𝗲](link)　⏖   
+⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](rules.md) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ‌ ‌ ⠀[𝗽𝘁](https://rentry.co/pt_rules)　⏖   
 ⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝘀𝗰𝗿𝗮𝗽𝘀!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
  　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚
 </p>
@@ -46,7 +46,7 @@
 <summary>ᶻᶻ  ‿ extras  ⑅</summary>
 
 
-<a href="https://rentry.co/pt_rules"><kbd>pt rules !!</kbd></a>   •   <a href="link"><kbd>more coming soon...</kbd></a>
+<a href="link"><kbd>coming soon...</kbd></a>
 
 </details>
 
