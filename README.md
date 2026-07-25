@@ -22,7 +22,7 @@
 ‌
 </details>
 
-<img src="https://i.ibb.co/ZvC6PsL/Untitled24-20260723180206.png" width="350">
+<img src="https://i.ibb.co/BKgbQGM4/20260725-140703.png" width="350">
 
 <a href="https://discordapp.com/users/873640105930260490">
   <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-F2B7C6?style=flat-square" alt="Discord"></a>  •  <a href="https://rentry.co/lilsweetlilbitter">
