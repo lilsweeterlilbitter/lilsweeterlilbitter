@@ -45,8 +45,6 @@
 <details>
 <summary>ᶻᶻ  ‿ extras  ⑅</summary>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=empress_shell)
-
 
 <a href="link"><kbd>coming soon...</kbd></a>
 
