@@ -10,41 +10,13 @@
   </a>
 </p>
 
-<img src="https://i.ibb.co/mr02nDRx/20260725-122500.jpg" width="350"><a href="https://discordapp.com/users/873640105930260490">
 <p align="center">
-<sub><sup><a href="shhh.md">ᵖˢˢˢᵗ</a></sup></sub>
+  
+⠀⠀⠀⠀⠀⠀ [dni / byf](link) ⠀   ➼ ⠀ ⠀[note](link)　⏖   
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀︶⠀⠀[ships!](link)⠀ ݁⠀⠀⠀⠀ 𓂂　   
 </p>
 
-***
 
-<details>
-<summary>❛     ⸺     byf 𓈒</summary>
-
-<br>
-
-> i get quiet to recharge, **not to ignore** • i listen even when idk what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol • i get confused quite easily so pls *be patient* with me ♡
-
-</details>
-
-<details>
-<summary>❛     ⸺     dni 𓈒</summary>
-
-<br>
-
-> ***basic dni criteria*** •  pls don't force opinions on me • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo ♡
-
-</details>
-
-<details>
-<summary>❛     ⸺     notes 𓈒</summary>
-
-<br>
-
-> i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or *forget boundaries*, feel free to warn me! (ᵕ—ᴗ—)
-> 
-> <img src="https://media1.tenor.com/m/hqr9QYl_62sAAAAC/batman-arkham-knight-jason-todd.gif" width="200"> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌<sub>
-will bully any batman on sight /jk ψ( ` ∇ ´ )ψ
-</sub>
 
 </details>
 
