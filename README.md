@@ -2,7 +2,7 @@
 𓏴𓏴　　do not copy my layout, skins, or profile pls and ty　　𓏼　
 </sub>
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
-<img src="https://i.ibb.co/CDCWMtt/63d38b3b17136e4412ee737f3a17ee73-polarr-2.jpg" width="350">
+<img src="https://i.ibb.co/v6L5ZZNG/20260725-122440.jpg" width="350">
 
 <p align="center">
   <a href="https://open.spotify.com/track/57yRy53PF4CNbttynfK92D?si=Y-4IdO67TDCW9Yq_u1umKA&utm_source=copy-link">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.ibb.co/xtPkwYrf/91320368b1191e53ec3b989f9517da7f-polarr-1.jpg" width="350"><a href="https://discordapp.com/users/873640105930260490">
+<img src="https://i.ibb.co/mr02nDRx/20260725-122500.jpg" width="350"><a href="https://discordapp.com/users/873640105930260490">
 <p align="center">
 <sub><sup><a href="shhh.md">ᵖˢˢˢᵗ</a></sup></sub>
 </p>
