@@ -9,14 +9,17 @@
     <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-D13958?style=flat-square&labelColor=F2B7C6&logo=spotify&logoColor=black" alt="Deaf Ears Blind Eyes— Alice In Chains">
   </a>
 </p>
-
+‌
+‌
 <p align="center">
   
 ⠀⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](link) ⠀   ➼ ⠀ ⠀[𝗻𝗼𝘁𝗲](link)　⏖   
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀︶⠀⠀[𝘀𝗵𝗶𝗽𝘀!](link)⠀ ݁⠀⠀⠀⠀ 𓂂　   
+ 　　　　           ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚
 </p>
 
-
+‌
+‌
 </details>
 
 <img src="https://i.ibb.co/ZvC6PsL/Untitled24-20260723180206.png" width="350">
@@ -36,6 +39,4 @@
 
 </details>
 
-  ꒰  .  ❤︎ 。[**sign my ata**](https://lilsweeterlilbitter.atabook.org/)   ! ◟ `` ˖
-  
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
