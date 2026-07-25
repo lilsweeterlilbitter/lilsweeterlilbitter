@@ -12,10 +12,9 @@
 
 <p align="center">
   
-⠀⠀⠀⠀⠀⠀ [dni / byf](link) ⠀   ➼ ⠀ ⠀[note](link)　⏖   
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀︶⠀⠀[ships!](link)⠀ ݁⠀⠀⠀⠀ 𓂂　   
+⠀⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](link) ⠀   ➼ ⠀ ⠀[𝗻𝗼𝘁𝗲](link)　⏖   
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀︶⠀⠀[𝘀𝗵𝗶𝗽𝘀!](link)⠀ ݁⠀⠀⠀⠀ 𓂂　   
 </p>
-
 
 
 </details>
