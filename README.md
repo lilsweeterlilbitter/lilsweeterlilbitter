@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/57yRy53PF4CNbttynfK92D?si=Y-4IdO67TDCW9Yq_u1umKA&utm_source=copy-link">
-    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-8A1831?style=flat-square&labelColor=9B9EB1&logo=spotify&logoColor=black" alt="Deaf Ears Blind Eyes— Alice In Chains">
+    <img src="https://img.shields.io/badge/%20♪%20Deaf%20Ears%20Blind%20Eyes-Alice%20In%20Chains-D13958?style=flat-square&labelColor=F2B7C6&logo=spotify&logoColor=black" alt="Deaf Ears Blind Eyes— Alice In Chains">
   </a>
 </p>
 
