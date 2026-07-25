@@ -24,13 +24,27 @@
 
 <img src="https://i.ibb.co/BKgbQGM4/20260725-140703.png" width="350">
 
-<a href="https://discordapp.com/users/873640105930260490">
-  <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-F2B7C6?style=flat-square" alt="Discord"></a>  •  <a href="https://rentry.co/lilsweetlilbitter">
-  <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-F2B7C6?style=flat-square&" alt="rentry"></a>  •  <a href="https://lilsweeterlilbitter.carrd.co/">
-  <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-F2B7C6?style=flat-square" alt="Carrd"></a>  •  <a href="https://lilsweeterlilbitter.straw.page/">
-  <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-F2B7C6?style=flat-square&" alt="Strawpage"></a>
+<p align="center">
+  <a href="https://discordapp.com/users/873640105930260490">
+    <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-F2B7C6?style=flat-square" alt="Discord">
+  </a>
+&nbsp;
+  <a href="https://rentry.co/lilsweetlilbitter">
+    <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-F2B7C6?style=flat-square" alt="Rentry">
+  </a>
+&nbsp;
+  <a href="https://lilsweeterlilbitter.carrd.co/">
+    <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-F2B7C6?style=flat-square" alt="Carrd">
+  </a>
+&nbsp;
+  <a href="https://lilsweeterlilbitter.straw.page/">
+    <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-F2B7C6?style=flat-square" alt="Strawpage">
+  </a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=F2B7C6&style=flat-square&abbreviated=true" alt="Profile views">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=F2B7C6&style=flat-square&abbreviated=true" alt="Profile views">
+</p>
 <details>
 <summary>ᶻᶻ  ‿ extras  ⑅</summary>
 
