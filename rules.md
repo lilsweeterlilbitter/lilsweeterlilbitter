@@ -13,6 +13,8 @@ still wip
 </sub>
 </p>
 
+<img src="https://i.ibb.co/0VMqf8Ff/Picsart-26-07-26-13-47-51-288.png" width="350">
+
 ***
 
 <div align="center">
