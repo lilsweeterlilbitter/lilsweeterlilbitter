@@ -1,8 +1,4 @@
 <p align="center">
-still wip
-</p>
-
-<p align="center">
 <sub>
 "I'm not talking about killing Penguin, or Scarecrow, or Dent. I'm talking about him. Just him. And doing it because..."
 </sub>
