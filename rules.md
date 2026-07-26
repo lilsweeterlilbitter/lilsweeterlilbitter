@@ -1,7 +1,5 @@
 <p align="center">
-<sub>
 still wip
-</sub>
 </p>
 
 <p align="center">
@@ -32,6 +30,8 @@ i get quiet to recharge, **not to ignore** • i listen even when idk what to sa
 </tr>
 </table>
 
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+
 </div>
 
 <div align="center">
@@ -48,6 +48,8 @@ i get quiet to recharge, **not to ignore** • i listen even when idk what to sa
 </td>
 </tr>
 </table>
+
+▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
 
 </div>
 
