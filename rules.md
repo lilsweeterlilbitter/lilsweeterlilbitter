@@ -1,11 +1,11 @@
 <p align="center">
 <sub>
-"I'm not talking about killing Penguin, or Scarecrow, or Dent. I'm talking about him. Just him. And doing it because..."
+"𝑰'𝒎 𝒏𝒐𝒕 𝒕𝒂𝒍𝒌𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒌𝒊𝒍𝒍𝒊𝒏𝒈 𝑷𝒆𝒏𝒈𝒖𝒊𝒏, 𝒐𝒓 𝑺𝒄𝒂𝒓𝒆𝒄𝒓𝒐𝒘, 𝒐𝒓 𝑫𝒆𝒏𝒕. 𝑰'𝒎 𝒕𝒂𝒍𝒌𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒉𝒊𝒎. 𝑱𝒖𝒔𝒕 𝒉𝒊𝒎. 𝑨𝒏𝒅 𝒅𝒐𝒊𝒏𝒈 𝒊𝒕 𝒃𝒆𝒄𝒂𝒖𝒔𝒆..."
 </sub>
 </p>
 <p align="center">
 <sub>
-"because he took me away from you."
+"𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒉𝒆 𝒕𝒐𝒐𝒌 𝒎𝒆 𝒂𝒘𝒂𝒚 𝒇𝒓𝒐𝒎 𝒚𝒐𝒖."
 </sub>
 </p>
 
