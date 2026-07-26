@@ -75,3 +75,8 @@ i reserve the right to bully batman.
 <p align="center">
 <img src="https://i.ibb.co/KpVd8Ry7/Untitled33-20260726141235.png" width="200">
 </p>
+<p align="center">
+<sub>
+might add more stuff later, idk (－ω－) zzZ
+</sub>
+</p>
