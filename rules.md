@@ -70,3 +70,7 @@ will bully any batman on sight /jk ψ( ` ∇ ´ )ψ
 </table>
 
 </div>
+
+<p align="center">
+<img src="https://i.ibb.co/KpVd8Ry7/Untitled33-20260726141235.png" width="200">
+</p>
