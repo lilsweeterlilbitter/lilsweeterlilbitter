@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-i get quiet to recharge, **not to ignore** • i listen even when idk what to say • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol • i get confused quite easily so pls *be patient* with me ♡
+i get quiet to recharge, **not to ignore** • i listen even when __idk what to say__ • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol • i get confused quite easily so pls *be patient* with me ♡(˶˃ ᵕ ˂˶)
 
 </td>
 </tr>
@@ -41,7 +41,7 @@ i get quiet to recharge, **not to ignore** • i listen even when idk what to sa
 <tr>
 <td>
 
-***basic dni criteria*** •  pls don't force opinions on me • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo ♡
+***basic dni criteria*** •  pls don't force opinions on me • keep things **light** • no bully/shaming *even jokingly* • dni for racism, sexism, political and religious topics • **idc** abt drama or gossip so pls keep it out of our convo ^ ‌ ^
 
 </td>
 </tr>
