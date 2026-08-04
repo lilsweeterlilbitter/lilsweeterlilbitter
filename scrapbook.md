@@ -21,18 +21,17 @@
 ***
 
 <p align="center">
-music section - ♪⁠～⁠(⁠´⁠ε⁠｀⁠ ⁠)
-</p>
-<p align="center">
 <sub>
 !! wip !!
 </sub>
 </p>
+<br>
 <p align="center">
-<img src="https://iili.io/Cgd3yiB.png" width="200">
+<img src="https://uploadkon.ir/uploads/039f04_26Picsart-26-07-25-13-04-53-705.png" width="200">
 </p>
 
 ***
+<br>
 
 <p align="center">
 <img src="https://uploadkon.ir/uploads/0b5e04_26Untitled42-20260805022319.png" width="250">
@@ -87,3 +86,19 @@ music section - ♪⁠～⁠(⁠´⁠ε⁠｀⁠ ⁠)
 </table>
 
 </div>
+‌
+‌<br>
+
+
+
+***
+
+<p align="center">
+<sub>
+!! wip !!
+</sub>
+</p>
+<br>
+<p align="center">
+<img src="https://uploadkon.ir/uploads/039f04_26Picsart-26-07-25-13-04-53-705.png" width="200">
+</p>
