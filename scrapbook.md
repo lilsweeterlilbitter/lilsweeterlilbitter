@@ -70,7 +70,7 @@
 <img src="https://uploadkon.ir/uploads/be2c04_26Untitled41-20260804213422.png" width="75">
 <img src="https://uploadkon.ir/uploads/223c04_26Untitled41-20260804213643.png" width="75">
 <img src="https://uploadkon.ir/uploads/21f904_26Untitled41-20260804213958.png" width="75">
-<img src="https://uploadkon.ir/uploads/74c404_26Untitled41-20260804210028.png" width="75">
+<img src="https://uploadkon.ir/uploads/dbc304_26Untitled41-20260804210028.png" width="75">
 
 </td>
 </tr>
