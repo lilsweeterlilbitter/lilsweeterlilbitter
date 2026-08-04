@@ -21,6 +21,9 @@
 ***
 
 <p align="center">
+music section - ♪⁠～⁠(⁠´⁠ε⁠｀⁠ ⁠)
+</p>
+<p align="center">
 <sub>
 !! wip !!
 </sub>
