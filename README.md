@@ -13,9 +13,7 @@
   
 ⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](rules.md) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ‌ ‌ ⠀[𝗽𝘁](https://rentry.co/pt_rules)　⏖   
 ⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝘀𝗰𝗿𝗮𝗽𝘀!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
- 　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚
-            ⠀ ‌⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀ ‌⠀𝅄⠀࿙࿚ ︶ ⠀<img src="https://pixels.crd.co/assets/images/gallery15/1509b4e6.gif?v=29416114" width="20">
-⠀ ︶࿙࿚ 𝅄
+ 　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚⠀
 </p>
 
 ‌
