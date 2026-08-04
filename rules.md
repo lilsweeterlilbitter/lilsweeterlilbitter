@@ -22,7 +22,7 @@
 <tr>
 <td>
 
-i get quiet to recharge, **not to ignore** • i listen even when __idk what to say__ • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol • i get confused quite easily so pls *be patient* with me ♡(˶˃ ᵕ ˂˶)
+i get quiet to recharge, **not to ignore** • i listen even when __idk what to say__ • i overthink, overfeel, and overanalyze • sometimes i'm *awkward* or *shy* and won't initiate interactions but **i really like to talk** • my connection is almost always **laggy**, lol • i get confused quite easily so pls *be patient* with me ♡
 
 </td>
 </tr>
@@ -60,7 +60,7 @@ i get quiet to recharge, **not to ignore** • i listen even when __idk what to 
 <tr>
 <td>
 
-i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or *forget boundaries*, feel free to warn me! (ᵕ—ᴗ—)
+i'm **sensitive** and prone to **anxiety** and sudden **mood swings** • may misread interactions *sometimes* • i might dissociate or get nonverbal if i'm **overwhelmed** • i'm struggling to regulate my feelings so pls **don't take it to heart** if i'm acting differently or become unintentionally rude • if i'm *miscommunicating* or *forget boundaries*, feel free to warn me !!
 ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌<sub>
 friendly reminder:
 i reserve the right to bully batman.
