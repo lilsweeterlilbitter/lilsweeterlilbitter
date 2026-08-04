@@ -37,24 +37,40 @@
 <tr>
 <td align="center">
 
-<img src="https://uploadkon.ir/uploads/792704_26Untitled40-20260804193724.png" width="70">
-<img src="https://uploadkon.ir/uploads/6fdc04_26Untitled40-20260804194438.png" width="70">
-<img src="https://uploadkon.ir/uploads/0c3304_26Untitled40-20260804194929.png" width="70">
-<img src="https://uploadkon.ir/uploads/d62504_26Untitled40-20260804195442.png" width="70">
+<img src="https://uploadkon.ir/uploads/792704_26Untitled40-20260804193724.png" width="75">
+<img src="https://uploadkon.ir/uploads/6fdc04_26Untitled40-20260804194438.png" width="75">
+<img src="https://uploadkon.ir/uploads/0c3304_26Untitled40-20260804194929.png" width="75">
+<img src="https://uploadkon.ir/uploads/d62504_26Untitled40-20260804195442.png" width="75">
 
 <br>
 
-<img src="https://uploadkon.ir/uploads/a1cd04_26Untitled40-20260804200150.png" width="70">
-<img src="https://uploadkon.ir/uploads/93f004_26Untitled40-20260804200440.png" width="70">
-<img src="https://uploadkon.ir/uploads/thumbs/e46404_26Untitled40-20260804200938.png" width="70">
-<img src="https://uploadkon.ir/uploads/thumbs/897304_26Untitled40-20260804201432.png" width="70">
+<img src="https://uploadkon.ir/uploads/a1cd04_26Untitled40-20260804200150.png" width="75">
+<img src="https://uploadkon.ir/uploads/93f004_26Untitled40-20260804200440.png" width="75">
+<img src="https://uploadkon.ir/uploads/thumbs/e46404_26Untitled40-20260804200938.png" width="75">
+<img src="https://uploadkon.ir/uploads/thumbs/897304_26Untitled40-20260804201432.png" width="75">
 
 <br>
 
-<img src="https://uploadkon.ir/uploads/thumbs/46a404_26Untitled40-20260804201646.png" width="70">
-<img src="https://uploadkon.ir/uploads/thumbs/7dd104_26Untitled40-20260804201945.png" width="70">
-<img src="https://uploadkon.ir/uploads/thumbs/249204_26Untitled40-20260804202730.png" width="70">
-<img src="https://uploadkon.ir/uploads/thumbs/d44c04_26Untitled40-20260804202822.png" width="70">
+<img src="https://uploadkon.ir/uploads/thumbs/46a404_26Untitled40-20260804201646.png" width="75">
+<img src="https://uploadkon.ir/uploads/thumbs/7dd104_26Untitled40-20260804201945.png" width="75">
+<img src="https://uploadkon.ir/uploads/thumbs/249204_26Untitled40-20260804202730.png" width="75">
+<img src="https://uploadkon.ir/uploads/thumbs/d44c04_26Untitled40-20260804202822.png" width="75">
+
+</td>
+</tr>
+</table>
+
+</div>
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<img src="https://uploadkon.ir/uploads/be2c04_26Untitled41-20260804213422.png" width="75">
+<img src="https://uploadkon.ir/uploads/223c04_26Untitled41-20260804213643.png" width="75">
+<img src="https://uploadkon.ir/uploads/21f904_26Untitled41-20260804213958.png" width="75">
+<img src="https://uploadkon.ir/uploads/74c404_26Untitled41-20260804210028.png" width="75">
 
 </td>
 </tr>
