@@ -68,7 +68,7 @@
 </div>
 
 <p align="center">
-<img src="https://uploadkon.ir/uploads/24b604_26Untitled42-20260805012507.png" width="250">
+<img src="https://uploadkon.ir/uploads/15b204_26Untitled42-20260805024634.png" width="250">
 
 <div align="center">
 
