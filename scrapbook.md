@@ -16,9 +16,9 @@
 <p align="center">
 <img src="https://iili.io/CgHfgt4.md.jpg" width="350">
 </p>
-‌
-***
+<br>
 
+***
 <p align="center">
 <sub>
 !! wip !!
@@ -41,8 +41,7 @@ Times have changed <br>
 </td>
 </tr>
 </table>
-
-
+<br>
 
 ***
 <br>
