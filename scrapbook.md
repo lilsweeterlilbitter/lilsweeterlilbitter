@@ -67,8 +67,14 @@ $\color{#7F8F88}{\textsf{ꜰᴜᴄᴋ\ ᴡɪᴛʜ\ ᴍᴇ}}$
 
 <td width="350">
 
-i guess you know that I am blind <br>
-to everything you say and do <br>
+<p align="center">
+
+$\color{#7F8F88}{\textsf{ɪ\ ɢᴜᴇꜱꜱ\ ʏᴏᴜ\ ᴋɴᴏᴡ\ ᴛʜᴀᴛ}}$
+$\color{#CEE9AE}{\textsf{ɪ\ ᴀᴍ\ ʙʟɪɴᴅ}}$ <br>
+$\color{#CEE9AE}{\textsf{𝙩𝙤\ 𝙚𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜}}$
+$\color{#7F8F88}{\textsf{ʏᴏᴜ\ ꜱᴀʏ\ ᴀɴᴅ\ ᴅᴏ}}$
+
+</p>
 
 </td>
 </tr>
@@ -81,7 +87,7 @@ to everything you say and do <br>
 $\color{#7F8F88}{\textsf{ᴄʀᴀᴄᴋᴇᴅ\ ᴇɢɢꜱ,}}$
 $\color{#CEE9AE}{\textsf{𝙙𝙚𝙖𝙙\ 𝙗𝙞𝙧𝙙𝙨}}$ <br>
 $\color{#CEE9AE}{\textsf{ꜱᴄʀᴇᴀᴍ,}}$
-$\color{#7F8F88}{\textsf{ᴀꜱ\ ᴛʜᴇʏ\ ꜰɪɢʜᴛ\ ꜰᴏʀ\ ʟɪꜰᴇ}}$ <br>
+$\color{#7F8F88}{\textsf{ᴀꜱ\ ᴛʜᴇʏ\ ꜰɪɢʜᴛ\ ꜰᴏʀ\ ʟɪꜰᴇ}}$
 
 </td>
 
