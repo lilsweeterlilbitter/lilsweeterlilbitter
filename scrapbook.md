@@ -33,8 +33,10 @@
 
 <td width="350">
 
-seasons, the adjustments <br>
-times have changed... <br>
+$\color{#CEE9AE}{\textsf{ꜱᴇᴀꜱᴏɴꜱ,}}$
+$\color{#7F8F88}{\textsf{ᴛʜᴇ\ ᴀᴅᴊᴜꜱᴛᴍᴇɴᴛꜱ}}$ <br>
+$\color{#7F8F88}{\textsf{ᴛɪᴍᴇꜱ\ ʜᴀᴠᴇ}}$
+$\color{#CEE9AE}{\textsf{𝙘𝙝𝙖𝙣𝙜𝙚𝙙}}$
 
 </td>
 </tr>
@@ -58,7 +60,7 @@ all it does is fuck with me <br>
 <table align="center">
 <tr>
 <td width="180">
-<img src="https://uploadkon.ir/uploads/12a605_26Untitled47-20260805111857.png" width="150">
+<img src="https://uploadkon.ir/uploads/f99605_26Untitled47-20260805111857.png" width="150">
 </td>
 
 <td width="350">
