@@ -78,8 +78,10 @@ to everything you say and do <br>
 
 <td width="350">
 
-cracked eggs, dead birds <br>
-scream as they fight for life <br>
+$\color{#7F8F88}{\textsf{ᴄʀᴀᴄᴋᴇᴅ\ ᴇɢɢꜱ,}}$
+$\color{#CEE9AE}{\textsf{𝙙𝙚𝙖𝙙\ 𝙗𝙞𝙧𝙙𝙨}}$ <br>
+$\color{#CEE9AE}{\textsf{ꜱᴄʀᴇᴀᴍ,}}$
+$\color{#7F8F88}{\textsf{ᴀꜱ\ ᴛʜᴇʏ\ ꜰɪɢʜᴛ\ ꜰᴏʀ\ ʟɪꜰᴇ}}$ <br>
 
 </td>
 
