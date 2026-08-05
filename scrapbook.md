@@ -62,7 +62,7 @@ $\color{#7F8F88}{\textsf{ꜰᴜᴄᴋ\ ᴡɪᴛʜ\ ᴍᴇ}}$
 <table align="center">
 <tr>
 <td width="180">
-<img src="https://uploadkon.ir/uploads/f99605_26Untitled47-20260805111857.png" width="200">
+<img src="https://uploadkon.ir/uploads/f99605_26Untitled47-20260805111857.png" width="100">
 </td>
 
 <td width="350">
@@ -101,7 +101,7 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 <br>
 
 <p align="center">
-<img src="https://uploadkon.ir/uploads/0b5e04_26Untitled42-20260805022319.png" width="100">
+<img src="https://uploadkon.ir/uploads/0b5e04_26Untitled42-20260805022319.png" width="250">
 
 <div align="center">
 
