@@ -33,8 +33,8 @@
 
 <td width="350">
 
-Seasons, the adjustments <br>
-Times have changed... <br>
+seasons, the adjustments <br>
+times have changed... <br>
 
 </td>
 </tr>
@@ -44,7 +44,7 @@ Times have changed... <br>
 
 <td width="350">
 
-why do I have a conscious? <br>
+why do I have a conscience? <br>
 all it does is fuck with me <br>
 
 </td>
