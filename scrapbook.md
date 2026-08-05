@@ -16,7 +16,6 @@
 <p align="center">
 <img src="https://iili.io/CgHfgt4.md.jpg" width="350">
 </p>
-
 ‌
 ***
 
@@ -26,9 +25,24 @@
 </sub>
 </p>
 <br>
-<p align="center">
-<img src="https://uploadkon.ir/uploads/039f04_26Picsart-26-07-25-13-04-53-705.png" width="200">
-</p>
+<table align="center">
+<tr>
+<td width="180">
+<img src="https://uploadkon.ir/uploads/9a9105_26Untitled47-20260805111610.png" width="150">
+</td>
+
+<td width="350">
+
+I prayed on the unmovable <br>
+Yeah, clinging to the atoms of rock <br>
+Seasons, the adjustments <br>
+Times have changed <br>
+
+</td>
+</tr>
+</table>
+
+
 
 ***
 <br>
