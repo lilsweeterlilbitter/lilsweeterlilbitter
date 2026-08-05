@@ -46,8 +46,10 @@ $\color{#CEE9AE}{\textsf{𝙘𝙝𝙖𝙣𝙜𝙚𝙙}}$
 
 <td width="350">
 
-why do I have a conscience? <br>
-all it does is fuck with me <br>
+$\color{#7F8F88}{\textsf{ᴡʜʏ\ ᴅᴏ\ ɪ\ ʜᴀᴠᴇ\ ᴀ}}$
+$\color{#CEE9AE}{\textsf{𝙘𝙤𝙣𝙨𝙘𝙞𝙚𝙣𝙘𝙚?}}$ <br>
+$\color{#CEE9AE}{\textsf{ᴀʟʟ\ ɪᴛ\ ᴅᴏᴇꜱ\ ɪꜱ}}$
+$\color{#7F8F88}{\textsf{ꜰᴜᴄᴋ\ ᴡɪᴛʜ\ ᴍᴇ}}$ 
 
 </td>
 
