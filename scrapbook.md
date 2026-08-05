@@ -28,7 +28,7 @@
 <table align="center">
 <tr>
 <td width="180">
-<img src="https://uploadkon.ir/uploads/9a9105_26Untitled47-20260805111610.png" width="150">
+<img src="https://uploadkon.ir/uploads/9a9105_26Untitled47-20260805111610.png" width="200">
 </td>
 
 <td width="350">
@@ -54,7 +54,7 @@ $\color{#7F8F88}{\textsf{ꜰᴜᴄᴋ\ ᴡɪᴛʜ\ ᴍᴇ}}$
 </td>
 
 <td width="180">
-<img src="https://uploadkon.ir/uploads/dd6205_26Untitled47-20260805112452.png" width="150">
+<img src="https://uploadkon.ir/uploads/dd6205_26Untitled47-20260805112452.png" width="200">
 </td>
 
 </tr>
@@ -62,7 +62,7 @@ $\color{#7F8F88}{\textsf{ꜰᴜᴄᴋ\ ᴡɪᴛʜ\ ᴍᴇ}}$
 <table align="center">
 <tr>
 <td width="180">
-<img src="https://uploadkon.ir/uploads/f99605_26Untitled47-20260805111857.png" width="150">
+<img src="https://uploadkon.ir/uploads/f99605_26Untitled47-20260805111857.png" width="200">
 </td>
 
 <td width="350">
@@ -90,7 +90,7 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 </td>
 
 <td width="180">
-<img src="https://uploadkon.ir/uploads/821d05_26Untitled47-20260805121120.png" width="150">
+<img src="https://uploadkon.ir/uploads/821d05_26Untitled47-20260805121120.png" width="100">
 </td>
 
 </tr>
@@ -101,7 +101,7 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 <br>
 
 <p align="center">
-<img src="https://uploadkon.ir/uploads/0b5e04_26Untitled42-20260805022319.png" width="250">
+<img src="https://uploadkon.ir/uploads/0b5e04_26Untitled42-20260805022319.png" width="100">
 
 <div align="center">
 
