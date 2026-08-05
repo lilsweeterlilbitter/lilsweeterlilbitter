@@ -1,7 +1,7 @@
 <sub>
 𓏴𓏴　　do not copy my layout, skins, or profile pls and ty　　𓏼　
 </sub>
-⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
+⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
 <img src="https://i.ibb.co/v6L5ZZNG/20260725-122440.jpg" width="350">
 
 <p align="center">
@@ -41,5 +41,4 @@
   </a>
 </p>
 
-
-︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
+︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
