@@ -20,10 +20,7 @@
 
 ***
 <p align="center">
-<sub>
-!! wip !!
-</sub>
-</p>
+<img src="https://uploadkon.ir/uploads/471305_26Untitled42-20260805151928.png" width="250">
 <br>
 <table align="center">
 <tr>
