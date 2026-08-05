@@ -165,7 +165,7 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 
 <p align="center">
 <sub>
-!! wip !!
+$\color{#C5445C}{\textsf{!!\ wip\ !!}}$
 </sub>
 </p>
 <br>
@@ -174,6 +174,6 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 </p>
 <p align="center">
 <sub>
-all the elements are custom-made by me so do not copy !!
+$\color{#C5445C}{\textsf{all\ the\ elements\ are\ custom-made\ by\ me\ so\ do\ not\ copy\ !!}}$
 </sub>
 </p>
