@@ -83,10 +83,9 @@ $\color{#7F8F88}{\textsf{ᴡʜᴇɴ\ ɪ\ ᴛᴇʟʟ\ ʏᴏᴜ\ ɪ\ ʟᴏᴠᴇ\ 
 
 <td width="350">
 
-$\color{#7F8F88}{\textsf{ᴄʀᴀᴄᴋᴇᴅ\ ᴇɢɢꜱ,}}$
-$\color{#CEE9AE}{\textsf{𝙙𝙚𝙖𝙙\ 𝙗𝙞𝙧𝙙𝙨}}$ <br>
-$\color{#CEE9AE}{\textsf{ꜱᴄʀᴇᴀᴍ,}}$
-$\color{#7F8F88}{\textsf{ᴀꜱ\ ᴛʜᴇʏ\ ꜰɪɢʜᴛ\ ꜰᴏʀ\ ʟɪꜰᴇ}}$
+$\color{#7F8F88}{\textsf{ɪ\ ᴄᴀɴ\}}$ $\color{#CEE9AE}{\textsf{ꜰᴇᴇʟ}}$ $\color{#7F8F88}{\textsf{ᴅᴇᴀᴛʜ,}}$ <br>
+$\color{#7F8F88}{\textsf{ᴄᴀɴ\ ꜱᴇᴇ\ ɪᴛꜱ\ ʙᴇᴀᴅʏ}}$
+$\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 
 </td>
 
