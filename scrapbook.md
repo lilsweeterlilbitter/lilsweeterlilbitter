@@ -55,6 +55,20 @@ all it does is fuck with me <br>
 
 </tr>
 </table>
+<table align="center">
+<tr>
+<td width="180">
+<img src="https://uploadkon.ir/uploads/12a605_26Untitled47-20260805111857.png" width="150">
+</td>
+
+<td width="350">
+
+i guess you know that I am blind <br>
+to everything you say and do <br>
+
+</td>
+</tr>
+</table>
 <br>
 
 ***
