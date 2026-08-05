@@ -95,6 +95,9 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 <p align="center">
 <img src="https://uploadkon.ir/uploads/bd6d05_26Untitled31-20260805150324.png" width="300">
 </p>
+<p align="center">
+<img src="https://uploadkon.ir/uploads/cefb05_26InShot-20260805-201923226-1.gif" width="300">
+</p>
 <br>
 
 ***
