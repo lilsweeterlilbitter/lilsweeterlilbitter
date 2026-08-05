@@ -12,7 +12,7 @@
 <p align="center">
   
 ⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](rules.md) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ‌ ‌ ⠀[𝗽𝘁](https://rentry.co/pt_rules)　⏖   
-⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝘀𝗰𝗿𝗮𝗽𝘀!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
+⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝙎𝙘𝙧𝙖𝙥𝙨!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
  　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚⠀
 </p>
 
