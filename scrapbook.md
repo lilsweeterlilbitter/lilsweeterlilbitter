@@ -33,12 +33,26 @@
 
 <td width="350">
 
-I prayed on the unmovable <br>
-Yeah, clinging to the atoms of rock <br>
 Seasons, the adjustments <br>
-Times have changed <br>
+Times have changed... <br>
 
 </td>
+</tr>
+</table>
+<table align="center">
+<tr>
+
+<td width="350">
+
+why do I have a conscious? <br>
+all it does is fuck with me <br>
+
+</td>
+
+<td width="180">
+<img src="https://uploadkon.ir/uploads/dd6205_26Untitled47-20260805112452.png" width="150">
+</td>
+
 </tr>
 </table>
 <br>
