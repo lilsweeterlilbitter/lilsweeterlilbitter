@@ -69,10 +69,9 @@ $\color{#7F8F88}{\textsf{ꜰᴜᴄᴋ\ ᴡɪᴛʜ\ ᴍᴇ}}$
 
 <p align="center">
 
-$\color{#7F8F88}{\textsf{ɪ\ ɢᴜᴇꜱꜱ\ ʏᴏᴜ\ ᴋɴᴏᴡ\ ᴛʜᴀᴛ}}$
-$\color{#CEE9AE}{\textsf{ɪ\ ᴀᴍ\ ʙʟɪɴᴅ}}$ <br>
-$\color{#CEE9AE}{\textsf{𝙩𝙤\ 𝙚𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜}}$
-$\color{#7F8F88}{\textsf{ʏᴏᴜ\ ꜱᴀʏ\ ᴀɴᴅ\ ᴅᴏ}}$
+$\color{#7F8F88}{\textsf{ᴅᴏ\ ʏᴏᴜ\ ᴋɴᴏᴡ\ ɪ'ᴍ}}$ 
+$\color{#CEE9AE}{\textsf{𝙛𝙖𝙠𝙞𝙣𝙜}}$ <br>
+$\color{#7F8F88}{\textsf{ᴡʜᴇɴ\ ɪ\ ᴛᴇʟʟ\ ʏᴏᴜ\ ɪ\ ʟᴏᴠᴇ\ ʏᴏᴜ?}}$
 
 </p>
 
