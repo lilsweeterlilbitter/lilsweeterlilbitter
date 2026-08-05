@@ -41,12 +41,5 @@
   </a>
 </p>
 
-<details>
-<summary>ᶻᶻ  ‿ extras  ⑅</summary>
-
-
-<a href="link"><kbd>coming soon...</kbd></a>
-
-</details>
 
 ︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
