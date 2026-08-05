@@ -69,6 +69,22 @@ to everything you say and do <br>
 </td>
 </tr>
 </table>
+<table align="center">
+<tr>
+
+<td width="350">
+
+cracked eggs, dead birds <br>
+scream as they fight for life <br>
+
+</td>
+
+<td width="180">
+<img src="https://uploadkon.ir/uploads/821d05_26Untitled47-20260805121120.png" width="150">
+</td>
+
+</tr>
+</table>
 <br>
 
 ***
