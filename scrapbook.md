@@ -95,10 +95,18 @@ $\color{#CEE9AE}{\textsf{𝙚𝙮𝙚𝙨}}$
 <p align="center">
 <img src="https://uploadkon.ir/uploads/bd6d05_26Untitled31-20260805150324.png" width="300">
 </p>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1404790237355315352/1534640746567827516/ezgif-7649d4cc43311156.gif?ex=6a74dd12&is=6a738b92&hm=9a0bfb196dca93981c434f5688102571ee529df17cfe1fcd97e02a77485e92c2&" width="200">
-</p>
-<br>
+<div align="center">
+
+<img src="https://cdn.discordapp.com/attachments/1404790237355315352/1534640746567827516/ezgif-7649d4cc43311156.gif?ex=6a74dd12&is=6a738b92&hm=9a0bfb196dca93981c434f5688102571ee529df17cfe1fcd97e02a77485e92c2&" width="150" style="vertical-align: middle;">
+
+<span>
+
+$\color{#7F8F88}{\textsf{ᴛʜᴇ\ ꜱᴀᴍᴇ\ ᴅᴇᴇᴘ\ ᴡᴀᴛᴇʀ\ ᴀꜱ\ ʏᴏᴜ}}$ <br>
+<i> $\color{#CEE9AE}{\textsf{ᴛʜᴇ\ ᴄᴜʀᴇ}}$ </i>
+
+</span>
+
+</div>
 
 ***
 <br>
