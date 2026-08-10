@@ -38,20 +38,4 @@
 
 
 <p align="center">
-  <a href="https://discordapp.com/users/873640105930260490">
-    <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-879C90?style=flat-square" alt="Discord">
-  </a>
-&nbsp;
-  <a href="https://rentry.co/lilsweetlilbitter">
-    <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-879C90?style=flat-square" alt="Rentry">
-  </a>
-&nbsp;
-  <a href="https://lilsweeterlilbitter.carrd.co/">
-    <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-879C90?style=flat-square" alt="Carrd">
-  </a>
-&nbsp;
-  <a href="https://lilsweeterlilbitter.straw.page/">
-    <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-879C90?style=flat-square" alt="Strawpage">
-  </a>
-</p>
-<a href="https://lilsweeterlilbitter.straw.page/">
+ <a href="https://discordapp.com/users/873640105930260490"><kbd>d'cord</kbd></a>   •   <a href="https://rentry.co/lilsweetlilbitter"><kbd>rentry</kbd></a>   •   <a href="https://lilsweeterlilbitter.carrd.co/"><kbd>crrd</kbd></a>   •   <a href="https://lilsweeterlilbitter.straw.page/"><kbd>straw</kkbd </a>
