@@ -3,7 +3,7 @@
 
 <p align="center">
 <img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=889D90&color=D3ECB1" alt="Visitor count">
-<img src="https://uploadkon.ir/uploads/f85110_26Untitled50-20260810173333.png" width="40">
+<img src="https://uploadkon.ir/uploads/072810_26Untitled50-20260810182040.png" width="30">
 <img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=889D90&color=D3ECB1" alt="Profile followers">
 </p>
 ‌
