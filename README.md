@@ -15,27 +15,24 @@
 
 ‌
 ‌
-![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=F2B7C6&textColor=D13958&isRounded=true)
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=D3ECB1&textColor=879C90&isRounded=true)
 </details>
 
-<img src="https://i.ibb.co/BKgbQGM4/20260725-140703.png" width="350">
 
 <p align="center">
   <a href="https://discordapp.com/users/873640105930260490">
-    <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-F2B7C6?style=flat-square" alt="Discord">
+    <img src="https://img.shields.io/badge/%20❛%20d'cord%20𓈒%20-879C90?style=flat-square" alt="Discord">
   </a>
 &nbsp;
   <a href="https://rentry.co/lilsweetlilbitter">
-    <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-F2B7C6?style=flat-square" alt="Rentry">
+    <img src="https://img.shields.io/badge/%20❛%20rentry%20𓈒%20-879C90?style=flat-square" alt="Rentry">
   </a>
 &nbsp;
   <a href="https://lilsweeterlilbitter.carrd.co/">
-    <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-F2B7C6?style=flat-square" alt="Carrd">
+    <img src="https://img.shields.io/badge/%20❛%20crrd%20𓈒%20-879C90?style=flat-square" alt="Carrd">
   </a>
 &nbsp;
   <a href="https://lilsweeterlilbitter.straw.page/">
-    <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-F2B7C6?style=flat-square" alt="Strawpage">
+    <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-879C90?style=flat-square" alt="Strawpage">
   </a>
 </p>
-
-︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶
