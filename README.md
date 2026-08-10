@@ -2,7 +2,7 @@
 <img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=F2B7C6&style=flat-square&abbreviated=true" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=D3ECB1&style=flat-square&abbreviated=true" alt="Profile views">
 </p>
 ‌
 ‌
