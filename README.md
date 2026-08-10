@@ -5,7 +5,17 @@
 <img src="https://uploadkon.ir/uploads/072810_26Untitled50-20260810182040.png" width="30">
 <img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=D3ECB1&color=889D90" alt="Profile followers">
 </p>
-‌
+<table>
+<tr>
+<td align="center">
+
+𝚖𝚊𝚛𝚌𝚒𝚎 / 𝚖𝚊𝚛𝚌𝚎  ·  𝚜𝚑𝚎/𝚑𝚎𝚛/𝚊𝚗𝚢   ·
+𝚜-𝚊𝚌𝚝𝚒𝚟𝚎  𝚍𝚌 / 𝚕𝚊𝚍𝚜 / 𝚖𝚛𝚟𝚕 𝚖𝚊𝚒𝚗𝚕𝚢  ·
+𝚌+𝚑 + 𝚒𝚗𝚝    𝚕𝚒𝚗𝚔𝚜 𝚋𝚎𝚕𝚘𝚠 𝚒𝚏 𝚌𝚞𝚛𝚒𝚘𝚞𝚜
+
+</td>
+</tr>
+</table>
 ‌<p align="center">
   <a href="rules.md">
     <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗱𝗻𝗶 / 𝗯𝘆𝗳%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="rules">
