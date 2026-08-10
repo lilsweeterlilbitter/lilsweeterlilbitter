@@ -49,7 +49,7 @@ $\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱�
 
 <p align="center">
 <details>
-<summary> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌content ‌  ‿ ‌ ‌ warning  </summary>
+<summary> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌content ‌ ‌  <img src="https://file.garden/Zy7nsVKnFHAuCMhW/pixels/white%20pixel/w75" width="20"> ‌ ‌ ‌ ‌‌  ‌ ‌warning  </summary>
 <table>
 <tr>
 <td align="center">
