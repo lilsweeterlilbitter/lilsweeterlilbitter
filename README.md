@@ -46,6 +46,5 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=D3ECB1&textColor=879C90&isRounded=true)
 </details>
 
-
 <p align="center">
  <a href="https://discordapp.com/users/873640105930260490"><kbd>d'cord</kbd></a>   •   <a href="https://rentry.co/lilsweetlilbitter"><kbd>rentry</kbd></a>   •   <a href="https://lilsweeterlilbitter.carrd.co/"><kbd>crrd</kbd></a>   •   <a href="https://lilsweeterlilbitter.straw.page/"><kbd>straw</kkbd </a>
