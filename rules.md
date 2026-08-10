@@ -17,7 +17,7 @@ $\color{#AAC79D}{\textsf{"𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒉𝒆 𝒕𝒐𝒐𝒌
 
 <table>
 <tr>
-<th>ㅤ۪ 𝅄ㅤ ꒰ byf ꒱ ⏤ㅤ۪</th>
+<th>ㅤ۪ 𝅄ㅤ ꒰ byf ꒱ ⏤ㅤ۪<img src="https://file.garden/Zy7nsVKnFHAuCMhW/pixels/white%20pixel/w47" width="15"></th>
 </tr>
 <tr>
 <td>
@@ -36,7 +36,7 @@ $\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱�
 
 <table>
 <tr>
-<th>ㅤ۪ 𝅄ㅤ ꒰ dni ꒱ ⏤ㅤ۪</th>
+<th>ㅤ۪ 𝅄ㅤ ꒰ dni ꒱ ⏤ㅤ۪<img src="https://file.garden/Zy7nsVKnFHAuCMhW/pixels/white%20pixel/w47" width="15"></th>
 </tr>
 <tr>
 <td>
@@ -76,7 +76,7 @@ $\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱�
 
 <table>
 <tr>
-<th>ㅤ۪ 𝅄ㅤ ꒰ notes ꒱ ⏤ㅤ۪</th>
+<th>ㅤ۪ 𝅄ㅤ ꒰ notes ꒱ ⏤ㅤ۪<img src="https://file.garden/Zy7nsVKnFHAuCMhW/pixels/white%20pixel/w47" width="15"></th>
 </tr>
 <tr>
 <td>
