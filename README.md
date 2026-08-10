@@ -2,9 +2,9 @@
 <img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
 
 <p align="center">
-<img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=889D90&color=D3ECB1" alt="Visitor count">
+<img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=D3ECB1&color=889D90" alt="Visitor count">
 <img src="https://uploadkon.ir/uploads/072810_26Untitled50-20260810182040.png" width="30">
-<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=889D90&color=D3ECB1" alt="Profile followers">
+<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=D3ECB1&color=889D90" alt="Profile followers">
 </p>
 ‌
 ‌
