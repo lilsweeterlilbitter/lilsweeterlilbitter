@@ -1,8 +1,5 @@
-<sub>
-𓏴𓏴　　do not copy my layout, skins, or profile pls and ty　　𓏼　
-</sub>
-⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢
-<img src="https://i.ibb.co/v6L5ZZNG/20260725-122440.jpg" width="350">
+
+<img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=F2B7C6&style=flat-square&abbreviated=true" alt="Profile views">
