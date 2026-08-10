@@ -13,8 +13,10 @@
 ⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝙎𝙘𝙧𝙖𝙥𝙨!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
  　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚⠀
 </p>
-
+<br>
+<img src="https://uploadkon.ir/uploads/762610_26Untitled54-20260810192739.png" width="350">
 ‌
+
 ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=D3ECB1&textColor=879C90&isRounded=true)
 </details>
 
