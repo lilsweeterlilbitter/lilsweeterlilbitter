@@ -10,7 +10,7 @@
 <td align="center">
 
 $\color{#D3ECB1}{\textsf{𝚖𝚊𝚛𝚌𝚒𝚎}}$ / 𝚖𝚊𝚛𝚌𝚎  ·  𝚜𝚑𝚎 𝚑𝚎𝚛 $\color{#AAC79D}{\textsf{𝚊𝚗𝚢}}$   ·
-𝚜-𝚊𝚌𝚝𝚒𝚟𝚎  $\color{#AAC79D}{\textsf{𝚍𝚌}}$ / 𝚕𝚊𝚍𝚜 / 𝚖𝚛𝚟𝚕 𝚖𝚊𝚒𝚗𝚕𝚢  ·
+𝚜-𝚊𝚌𝚝𝚒𝚟𝚎   · ‌ $\color{#AAC79D}{\textsf{𝚍𝚌}}$ / 𝚕𝚊𝚍𝚜 / 𝚖𝚛𝚟𝚕 𝚖𝚊𝚒𝚗𝚕𝚢  ·
 $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf{𝚕𝚒𝚗𝚔𝚜 𝚋𝚎𝚕𝚘𝚠 𝚒𝚏 𝚌𝚞𝚛𝚒𝚘𝚞𝚜}}$
 
 </td>
