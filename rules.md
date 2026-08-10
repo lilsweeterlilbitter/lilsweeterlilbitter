@@ -49,7 +49,7 @@ i get quiet to recharge, **not to ignore** • i listen even when __idk what to 
 
 <p align="center">
 <details>
-<summary>content ‌  ‿ ‌ ‌ warning  </summary>
+<summary> ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌content ‌  ‿ ‌ ‌ warning  </summary>
 <table>
 <tr>
 <td align="center">
