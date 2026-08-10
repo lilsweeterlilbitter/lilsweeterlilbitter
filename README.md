@@ -15,7 +15,6 @@
 </p>
 
 ‌
-‌
 ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=D3ECB1&textColor=879C90&isRounded=true)
 </details>
 
