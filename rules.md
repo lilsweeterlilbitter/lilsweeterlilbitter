@@ -54,11 +54,11 @@ i get quiet to recharge, **not to ignore** • i listen even when __idk what to 
 <tr>
 <td align="center">
 
-No venting/ranting about serious IRL matters or situations
-No heavy topics such as death, suicide, self-harm, abuse, etc
-Please do not expect a reaction or supportive response from me. These topics can make me anxious, confused, or overwhelmed.
-I may stop responding, go AFK, log off, or leave without notice if a conversation crosses my boundaries. Please don't take it personally or follow up for an explanation.
-I am not currently capable of carrying the emotional responsibility that comes with these conversations, and my own mental/emotional state can affect how I respond.
+No venting/ranting about serious irl matters or situations $\color{#AAC79D}{\textsf{𖹭 ֶָ֢}}$ 
+No heavy topics such as death, suicide, self-harm, abuse, etc $\color{#AAC79D}{\textsf{𖹭 ֶָ֢}}$ 
+Please do not expect a reaction or supportive response from me. These topics can make me anxious, confused, or overwhelmed $\color{#AAC79D}{\textsf{𖹭 ֶָ֢}}$ 
+I may stop responding, go afk, or leave without notice if a conversation crosses my boundaries $\color{#AAC79D}{\textsf{𖹭 ֶָ֢}}$ 
+I am not currently capable of carrying the emotional responsibility that comes with these conversations, and my own mental/emotional state can affect how I respond
 
 
 </td>
