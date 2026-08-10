@@ -94,5 +94,5 @@ i reserve the right to bully batman.
 </div>
 
 <p align="center">
-<img src="https://i.ibb.co/KpVd8Ry7/Untitled33-20260726141235.png" width="200">
+꒰১ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> ໒꒱
 </p>
