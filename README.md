@@ -6,13 +6,29 @@
 <img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=D3ECB1&color=889D90" alt="Profile followers">
 </p>
 ‌
-‌
-<p align="center">
-  
-⠀ ‌ ‌ ‌⠀⠀⠀⠀⠀ [𝗱𝗻𝗶 / 𝗯𝘆𝗳](rules.md) ⠀‌ ‌   ‌ ‌ ➼ ⠀ ‌ ‌ ⠀[𝗽𝘁](https://rentry.co/pt_rules)　⏖   
-⠀⠀⠀⠀⠀⠀⠀ ‌ ‌ ‌ ‌ ‌ ‌ ‌⠀︶⠀⠀[𝙎𝙘𝙧𝙖𝙥𝙨!](scrapbook.md)⠀ ݁⠀⠀⠀⠀ 𓂂　   
- 　　　　       ‌ ‌ ‌     ⸝⸝   　[𝘀`𝗮𝘁𝗮](https://lilsweeterlilbitter.atabook.org/)　꒱　  ‌ ‌ . ˚‌   ‌ ‌ ‌  [✖ ᶻz](shhh.md) ₊˚⠀
+‌<p align="center">
+  <a href="rules.md">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗱𝗻𝗶 / 𝗯𝘆𝗳%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="rules">
+</a>
+ ‌&nbsp;&nbsp;
+<a href="https://rentry.co/pt_rules">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗽𝘁%20%F0%93%88%92%20-889D90?style=flat&labelColor=889D90" alt="ponytown">
+</a>
+  &nbsp;&nbsp;
+  <a href="scrapbook.md">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀𝗰𝗿𝗮𝗽𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="scrapbook">
+</a>
+  </a>
+ ‌&nbsp;&nbsp;
+<a href="https://lilsweeterlilbitter.atabook.org/">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀`𝗮𝘁𝗮%20%F0%93%88%92%20-889D90?style=flat&labelColor=889D90" alt="atabook">
+</a>
+  &nbsp;&nbsp;
+  <a href="shhh.md">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ ᶻz%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="shhh">
+</a>
 </p>
+
 <br>
 <img src="https://uploadkon.ir/uploads/762610_26Untitled54-20260810192739.png" width="350">
 ‌
@@ -38,3 +54,4 @@
     <img src="https://img.shields.io/badge/%20❛%20straw%20𓈒%20-879C90?style=flat-square" alt="Strawpage">
   </a>
 </p>
+<a href="https://lilsweeterlilbitter.straw.page/">
