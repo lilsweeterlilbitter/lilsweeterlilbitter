@@ -185,3 +185,11 @@ $\color{#C5445C}{\textsf{!!\ wip\ !!}}$
 $\color{#C5445C}{\textsf{all\ the\ elements\ are\ custom-made\ by\ me\ so\ do\ not\ copy\ !!}}$
 </sub>
 </p>
+
+
+<p align="center">
+<img src="https://64.media.tumblr.com/bb44403618817ac87938c8429f38e266/70f6b07924704232-fd/s250x400/10417a0620be887da88820820abba582d344e3de.gifv" width="100">
+  <img src="https://64.media.tumblr.com/a1f97e46974400965ba58cf4eda4d584/72e2590fb9e2f26c-6a/s250x400/b8885434e1275144f85567404fd2f66debfcf77e.gifv" width="100">
+  <img src="https://64.media.tumblr.com/5ac1dfc1fc71f180da576f9ee303e693/72e2590fb9e2f26c-ad/s250x400/5233028cb7b08347978f9ded7c58ed8134be8d75.gifv" width="100">
+  <img src="https://64.media.tumblr.com/10fb39886cc31732b36ed26cdfb50854/09d8886a046ceb4c-a4/s400x600/0024ab838f291b5f916251d42606b926a7ec1507.webp" width="100">
+</p>
