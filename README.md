@@ -2,7 +2,9 @@
 <img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=%20🦇༉‧₊`&color=C1E0A7&style=flat-square&abbreviated=true" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=lilsweeterlilbitter&label=🦇༉‧₊`&color=C1E0A7&style=flat-square&abbreviated=true" alt="Profile views">
+<img src="https://file.garden/Zy7nsVKnFHAuCMhW/pixels/white%20pixel/w48" width="20">
+<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?label=&color=879C90&style=flat-square" alt="Profile followers">
 </p>
 ‌
 ‌
