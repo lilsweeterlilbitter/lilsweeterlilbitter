@@ -28,7 +28,7 @@ i get quiet to recharge, **not to ignore** • i listen even when __idk what to 
 </tr>
 </table>
 
-▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+$\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰}}$
 
 </div>
 
@@ -68,7 +68,7 @@ I am not currently capable of carrying the emotional responsibility that comes w
 </details>
 </p>
 
-▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰
+$\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰}}$
 
 </div>
 
