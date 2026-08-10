@@ -94,5 +94,5 @@ i reserve the right to bully batman.
 </div>
 
 <p align="center">
-꒰১ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> ໒꒱
+$\color{#AAC79D}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> $\color{#AAC79D}{\textsf{໒꒱}}$
 </p>
