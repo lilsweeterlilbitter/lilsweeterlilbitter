@@ -182,7 +182,8 @@ $\color{#C5445C}{\textsf{!!\ wip\ !!}}$
 </p>
 <p align="center">
 <sub>
-$\color{#C5445C}{\textsf{all\ the\ elements\ are\ custom-made\ by\ me\ so\ do\ not\ copy\ !!}}$
+$\color{#C5445C}{\textsf{all\ the\ elements\ above\ are\ custom-made\ by\ me\ so\ do\ not\ copy\ !!}}$
+  $\color{#C5445C}{\textsf{blinkies below aren't mine tho !!}}$
 </sub>
 </p>
 
@@ -192,4 +193,14 @@ $\color{#C5445C}{\textsf{all\ the\ elements\ are\ custom-made\ by\ me\ so\ do\ n
   <img src="https://64.media.tumblr.com/a1f97e46974400965ba58cf4eda4d584/72e2590fb9e2f26c-6a/s250x400/b8885434e1275144f85567404fd2f66debfcf77e.gifv" width="100">
   <img src="https://64.media.tumblr.com/5ac1dfc1fc71f180da576f9ee303e693/72e2590fb9e2f26c-ad/s250x400/5233028cb7b08347978f9ded7c58ed8134be8d75.gifv" width="100">
   <img src="https://64.media.tumblr.com/10fb39886cc31732b36ed26cdfb50854/09d8886a046ceb4c-a4/s400x600/0024ab838f291b5f916251d42606b926a7ec1507.webp" width="100">
+  <img src="https://64.media.tumblr.com/abf7c3945f976d102e09ce3a4786521e/b2e7d9de2635d502-d8/s250x400/5c111bafea65c6d5df68ccf525e6279c15f3ecfc.gifv" width="100">
+  <img src="https://kotatsu.me/blinkies/sleeptoken_byus.gif" width="100">
+    <img src="https://file.garden/ZAkEYVkUN2HXHCu3/web/graphics/robzombie.gif" width="100">
+    <img src="https://file.garden/ZAkEYVkUN2HXHCu3/web/graphics/gorillaz.gif" width="100">
+    <img src="https://file.garden/ZAkEYVkUN2HXHCu3/web/graphics/69a33f2051c12bf37b2a1935305168af16878206.gif" width="100">
+  <img src="https://uploadkon.ir/uploads/58d410_26db50adae41b169cf78d38613ea78f53046cc4591-gifv-1-.gif" width="100">
+  <img src="https://64.media.tumblr.com/438981cff4d3aafb2606635db66ea011/309219964b90f7d9-8f/s250x400/107cbb2afb6d1fd5b87fbbbe0f984c9a0e4c3399.gifv" width="100">
+  <img src="https://64.media.tumblr.com/e015026a64ac920dc0d1c8167420377e/06c8f3f7fec6aa6f-19/s250x400/f0f91a3c3a3a191d3580caeade090633222b7640.gifv" width="100">
+  <img src="https://64.media.tumblr.com/3226232d4ad9a8fed1eb91924af87e5f/b4efadd60ae6c6cc-5a/s250x400/a89a7b65cba8a5756ab23102913fcb817e8a1682.gifv" width="100">
+  <img src="https://64.media.tumblr.com/2a8249f8052d7e1da51f19e2b3bbc7ff/66dbb87d0390004d-bb/s250x400/9fe26d1f2c8836c54a7308e7cb82b2001388099b.gifv" width="100">
 </p>
