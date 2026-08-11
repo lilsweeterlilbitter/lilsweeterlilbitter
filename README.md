@@ -50,7 +50,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 </details>
 
 <p align="center">
-$\color{#D3ECB1}{\textsf{˚₊‧꒰ა.}}$ ‌ ‌<img src="https://uploadkon.ir/uploads/202411_26Untitled50-20260811103927.png" width="200"> $\color{#D3ECB1}{\textsf{.໒꒱ ‧₊˚}}$
+$\color{#D3ECB1}{\textsf{˚₊‧꒰ა.}}$ ‌ ‌<img src="https://uploadkon.ir/uploads/67eb11_26Untitled50-20260811105253.png" width="200"> $\color{#D3ECB1}{\textsf{.໒꒱ ‧₊˚}}$
 ‌</p>
 
 <p align="center">
