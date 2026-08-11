@@ -1,4 +1,4 @@
-<p align= center">
+<p align="center">
 <img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
 </p>
 
