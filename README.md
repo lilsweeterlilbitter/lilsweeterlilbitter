@@ -1,4 +1,6 @@
+<p align= center">
 <img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
+</p>
 
 <p align="center">
 <img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=D3ECB1&color=889D90" alt="Visitor count">
@@ -40,8 +42,9 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 </p>
 
 <br>
+<p align="center">
 <img src="https://uploadkon.ir/uploads/762610_26Untitled54-20260810192739.png" width="350">
-‌
+‌</p>
 
 ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=D3ECB1&textColor=879C90&isRounded=true)
 </details>
