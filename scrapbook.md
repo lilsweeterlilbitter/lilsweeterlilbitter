@@ -19,7 +19,7 @@
 <br>
 <div align="center">
 
-<img src="https://cdn.discordapp.com/attachments/1404790237355315352/1534647216470495344/InShot_20260805_230820347-ezgif.com-remove-background.gif?ex=6a74e318&is=6a739198&hm=27e4b65f037f542ab9cc8973f0573a897345dc4ffd624112bc6bfb531caf377b&" width="150" style="vertical-align: middle;">
+<img src="https://uploadkon.ir/uploads/02f214_26InShot-20260805-230820347-ezgif-com-remove-background.gif" width="150" style="vertical-align: middle;">
 
 <span>
 
