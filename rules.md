@@ -1,17 +1,4 @@
-<p align="center">
-<sub>
-  "𝑰'𝒎 𝒏𝒐𝒕 𝒕𝒂𝒍𝒌𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒌𝒊𝒍𝒍𝒊𝒏𝒈 𝑷𝒆𝒏𝒈𝒖𝒊𝒏, 𝒐𝒓 𝑺𝒄𝒂𝒓𝒆𝒄𝒓𝒐𝒘, 𝒐𝒓 𝑫𝒆𝒏𝒕. 𝑰'𝒎 𝒕𝒂𝒍𝒌𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒉𝒊𝒎. 𝑱𝒖𝒔𝒕 𝒉𝒊𝒎. 𝑨𝒏𝒅 𝒅𝒐𝒊𝒏𝒈 𝒊𝒕 𝒃𝒆𝒄𝒂𝒖𝒔𝒆..."
-</sub>
-</p>
-<p align="center">
-<sub>
-$\color{#AAC79D}{\textsf{"𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒉𝒆 𝒕𝒐𝒐𝒌 𝒎𝒆 𝒂𝒘𝒂𝒚 𝒇𝒓𝒐𝒎 𝒚𝒐𝒖."}}$
-</sub>
-</p>
-
-<img src="https://uploadkon.ir/uploads/d8fe10_26Untitled32-20260810211038.png" width="350">
-
-***
+<img src="https://uploadkon.ir/uploads/b5c815_26Untitled62-20260816021627.png" width="350">
 
 <div align="center">
 
@@ -95,4 +82,14 @@ i reserve the right to bully batman.
 
 <p align="center">
 $\color{#AAC79D}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> $\color{#AAC79D}{\textsf{໒꒱}}$
+</p>
+<p align="center">
+<sub>
+  "𝑰'𝒎 𝒏𝒐𝒕 𝒕𝒂𝒍𝒌𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒌𝒊𝒍𝒍𝒊𝒏𝒈 𝑷𝒆𝒏𝒈𝒖𝒊𝒏, 𝒐𝒓 𝑺𝒄𝒂𝒓𝒆𝒄𝒓𝒐𝒘, 𝒐𝒓 𝑫𝒆𝒏𝒕. 𝑰'𝒎 𝒕𝒂𝒍𝒌𝒊𝒏𝒈 𝒂𝒃𝒐𝒖𝒕 𝒉𝒊𝒎. 𝑱𝒖𝒔𝒕 𝒉𝒊𝒎. 𝑨𝒏𝒅 𝒅𝒐𝒊𝒏𝒈 𝒊𝒕 𝒃𝒆𝒄𝒂𝒖𝒔𝒆..."
+</sub>
+</p>
+<p align="center">
+<sub>
+$\color{#AAC79D}{\textsf{"𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒉𝒆 𝒕𝒐𝒐𝒌 𝒎𝒆 𝒂𝒘𝒂𝒚 𝒇𝒓𝒐𝒎 𝒚𝒐𝒖."}}$
+</sub>
 </p>
