@@ -33,7 +33,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
   </a>
  ‌&nbsp;&nbsp;
 <a href="https://lilsweeterlilbitter.atabook.org/">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀`𝗮𝘁𝗮%20%F0%93%88%92%20-889D90?style=flat&labelColor=889D90" alt="atabook">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20新𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-889D90?style=flat&labelColor=889D90" alt="atabook">
 </a>
   &nbsp;&nbsp;
   <a href="shhh.md">
