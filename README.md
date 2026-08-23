@@ -29,7 +29,6 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
   &nbsp;&nbsp;
   <a href="scrapbook.md">
     <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀𝗰𝗿𝗮𝗽𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="scrapbook">
-</a>
   </a>
  ‌&nbsp;&nbsp;
 <a href="https://lilsweeterlilbitter.atabook.org/">
