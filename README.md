@@ -23,7 +23,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 </table>
 ‌<p align="center">
   <a href="rules.md">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗱𝗻𝗶 / 𝗯𝘆𝗳%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="rules">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗱𝗻𝗶 / 𝗯𝘆𝗳%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="rules">
 </a>
  ‌&nbsp;&nbsp;
 <a href="https://rentry.co/pt_rules">
@@ -31,7 +31,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 </a>
   &nbsp;&nbsp;
   <a href="scrapbook.md">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀𝗰𝗿𝗮𝗽𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="scrapbook">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀𝗰𝗿𝗮𝗽𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="scrapbook">
   </a>
  ‌&nbsp;&nbsp;
 <a href="https://lilsweeterlilbitter.atabook.org/">
@@ -39,7 +39,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 </a>
   &nbsp;&nbsp;
   <a href="shhh.md">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ ᶻz%20%F0%93%88%92%20-D3ECB1?style=flat&labelColor=D3ECB1" alt="shhh">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ ᶻz%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="shhh">
 </a>
 </p>
 
