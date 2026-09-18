@@ -1,11 +1,14 @@
 <p align="center">
-<img src="https://uploadkon.ir/uploads/7e4e10_26Untitled26-20260810161310.png" width="350">
+$\color{#AED5F6}{\textsf{reworking layout !!}}$
+</p>
+<p align="center">
+<img src="https://uploadkon.ir/uploads/626318_26Untitled84-20260918174315.png" width="350">
 </p>
 
 <p align="center">
-<img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=D3ECB1&color=889D90" alt="Visitor count">
+<img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=AED5F6&color=3980DF" alt="Visitor count">
 <img src="https://uploadkon.ir/uploads/072810_26Untitled50-20260810182040.png" width="30">
-<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=D3ECB1&color=889D90" alt="Profile followers">
+<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=AED5F6&color=3980DF" alt="Profile followers">
 </p>
 <table>
 <tr>
@@ -24,7 +27,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 </a>
  ‌&nbsp;&nbsp;
 <a href="https://rentry.co/pt_rules">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗽𝘁%20%F0%93%88%92%20-889D90?style=flat&labelColor=889D90" alt="ponytown">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗽𝘁%20%F0%93%88%92%20-3980DF?style=flat&labelColor=3980DF" alt="ponytown">
 </a>
   &nbsp;&nbsp;
   <a href="scrapbook.md">
@@ -32,7 +35,7 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
   </a>
  ‌&nbsp;&nbsp;
 <a href="https://lilsweeterlilbitter.atabook.org/">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20新𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-889D90?style=flat&labelColor=889D90" alt="atabook">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20新𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-3980DF?style=flat&labelColor=3980DF" alt="atabook">
 </a>
   &nbsp;&nbsp;
   <a href="shhh.md">
@@ -42,14 +45,14 @@ $\color{#D3ECB1}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#889D90}{\textsf
 
 <br>
 <p align="center">
-<img src="https://uploadkon.ir/uploads/762610_26Untitled54-20260810192739.png" width="350">
+<img src="https://uploadkon.ir/uploads/236418_26Untitled54-20260918174953.png" width="350">
 ‌</p>
 
-![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=D3ECB1&textColor=879C90&isRounded=true)
+![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=AED5F6&textColor=3A4A88&isRounded=true)
 </details>
 
 <p align="center">
-$\color{#D3ECB1}{\textsf{˚₊‧꒰ა.}}$ ‌ ‌<img src="https://uploadkon.ir/uploads/67eb11_26Untitled50-20260811105253.png" width="200"> $\color{#D3ECB1}{\textsf{.໒꒱ ‧₊˚}}$
+<img src="https://uploadkon.ir/uploads/59e218_26Untitled83-20260918173923.png" width="250">
 ‌</p>
 
 <p align="center">
