@@ -1,7 +1,4 @@
 <p align="center">
-$\color{#AED5F6}{\textsf{!! reworking layout !!}}$
-</p>
-<p align="center">
 <img src="https://uploadkon.ir/uploads/632f19_26Untitled89-20260919125153.png" width="350">
 </p>
 <p align="center">
