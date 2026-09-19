@@ -5,9 +5,9 @@ $\color{#AED5F6}{\textsf{!! reworking layout !!}}$
 <img src="https://uploadkon.ir/uploads/632f19_26Untitled89-20260919125153.png" width="350">
 </p>
 <p align="center">
-<img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=rounds&extraCount=970&labelColor=AED5F6&color=3980DF" alt="Visitor count">
+<img src="https://hits.sh/github.com/lilsweeterlilbitter.svg?label=wings&extraCount=970&labelColor=AED5F6&color=3980DF" alt="Visitor count">
 <img src="https://i.postimg.cc/bw7tCcfB/FB82DAF4-199E-4891-BDA6-D64025037145.gif" width="50">
-<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=outlaws&labelColor=AED5F6&color=3980DF" alt="Profile followers">
+<img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=apples&labelColor=AED5F6&color=3980DF" alt="Profile followers">
 </p>
 <p align="center">
 <img src="https://uploadkon.ir/uploads/626318_26Untitled84-20260918174315.png" width="350">
