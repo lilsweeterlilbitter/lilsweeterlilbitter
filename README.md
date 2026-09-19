@@ -2,6 +2,9 @@
 $\color{#AED5F6}{\textsf{!! reworking layout !!}}$
 </p>
 <p align="center">
+<img src="https://uploadkon.ir/uploads/e93c19_26Untitled86-20260919113939.png" width="350">
+</p>
+<p align="center">
 <img src="https://uploadkon.ir/uploads/626318_26Untitled84-20260918174315.png" width="350">
 </p>
 
@@ -57,3 +60,6 @@ $\color{#AED5F6}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$    $\color{#3A4A88}{\textsf
 
 <p align="center">
  <a href="https://discordapp.com/users/873640105930260490"><kbd>d'cord</kbd></a>   •   <a href="https://rentry.co/lilsweetlilbitter"><kbd>rentry</kbd></a>   •   <a href="https://lilsweeterlilbitter.carrd.co/"><kbd>crrd</kbd></a>   •   <a href="https://lilsweeterlilbitter.straw.page/"><kbd>straw</kkbd </a>
+<p align="center">
+<img src="https://uploadkon.ir/uploads/737219_26Untitled87-20260919114027.png" width="350">
+</p>
