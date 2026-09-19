@@ -13,7 +13,7 @@ $\color{#AED5F6}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$
 </p>
 
 <p align="center">
-<table>
+<table align="center">
   <tr>
     <td align="center">
 
