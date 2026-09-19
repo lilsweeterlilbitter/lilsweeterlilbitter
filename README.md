@@ -20,19 +20,19 @@ $\color{#AED5F6}{\textsf{!! reworking layout !!}}$
   </a> <br>
 <br>
 <a href="https://rentry.co/pt_rules">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗽𝘁%20%F0%93%88%92%20-3980DF?style=flat&labelColor=3980DF" alt="ponytown">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗽𝗼𝗻𝘆𝘁𝗼𝘄𝗻%20%F0%93%88%92%20-3980DF?style=flat&labelColor=3980DF" alt="ponytown">
 </a> <br>
 <br>
 <a href="scrapbook.md">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝘀𝗰𝗿𝗮𝗽𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="scrapbook">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20𝗮𝗿𝗰𝗵𝗶𝘃𝗲%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="scrapbook">
   </a> <br>
 <br>
 <a href="https://lilsweeterlilbitter.atabook.org/">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20新𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-3980DF?style=flat&labelColor=3980DF" alt="atabook">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20新 ㅤ𝗯𝗼𝗼𝗸%20%F0%93%88%92%20-3980DF?style=flat&labelColor=3980DF" alt="atabook">
 </a> <br>
 <br>
  <a href="shhh.md">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ ᶻz%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="shhh">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ ㅤ ᶻz%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="shhh">
  </a>
 
   </td>
