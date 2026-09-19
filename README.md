@@ -2,7 +2,7 @@
 $\color{#AED5F6}{\textsf{!! reworking layout !!}}$
 </p>
 <p align="center">
-<img src="https://uploadkon.ir/uploads/e93c19_26Untitled86-20260919113939.png" width="350">
+<img src="https://uploadkon.ir/uploads/632f19_26Untitled89-20260919125153.png" width="350">
 </p>
 <p align="center">
 <img src="https://uploadkon.ir/uploads/626318_26Untitled84-20260918174315.png" width="350">
