@@ -1,4 +1,4 @@
-<img src="https://uploadkon.ir/uploads/b5c815_26Untitled62-20260816021627.png" width="350">
+<img src="https://uploadkon.ir/uploads/7a2519_26Untitled32-20260919154159.png" width="350">
 
 <div align="center">
 
@@ -81,7 +81,7 @@ i reserve the right to bully batman.
 </div>
 
 <p align="center">
-$\color{#4FACE5}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> $\color{#4FACE5}{\textsf{໒꒱}}$
+$\color{#4FACE5}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/31b619_26Untitled93-20260919154324.png" width="200"> $\color{#4FACE5}{\textsf{໒꒱}}$
 </p>
 <p align="center">
 <sub>
