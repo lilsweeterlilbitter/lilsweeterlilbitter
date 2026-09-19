@@ -37,7 +37,7 @@ $\color{#AED5F6}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$
 </a> <br>
 <br>
  <a href="shhh.md">
-    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ ㅤ ᶻz%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="shhh">
+    <img src="https://img.shields.io/badge/%20%E2%9D%9B%20✖ㅤ𝗶𝗱𝗸 ᶻz%20%F0%93%88%92%20-AED5F6?style=flat&labelColor=AED5F6" alt="shhh">
  </a>
 
   </td>
