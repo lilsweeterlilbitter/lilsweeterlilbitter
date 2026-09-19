@@ -9,6 +9,11 @@ $\color{#AED5F6}{\textsf{!! reworking layout !!}}$
 <img src="https://i.postimg.cc/bw7tCcfB/FB82DAF4-199E-4891-BDA6-D64025037145.gif" width="50">
 <img src="https://img.shields.io/github/followers/lilsweeterlilbitter?style=flat&label=apples&labelColor=AED5F6&color=3980DF" alt="Profile followers">
 </p>
+<p align="center">
+$\color{#AED5F6}{\textsf{𝚖𝚊𝚛𝚌𝚒𝚎 / 𝚖𝚊𝚛𝚌𝚎}}$  ·  𝚜𝚑𝚎 𝚑𝚎𝚛 $\color{#4FACE5}{\textsf{𝚊𝚗𝚢}}$   ·
+𝚜-𝚊𝚌𝚝𝚒𝚟𝚎   · ‌ $\color{#4FACE5}{\textsf{𝚍𝚌}}$ / 𝚕𝚊𝚍𝚜 / 𝚊𝚗𝚒𝚖𝚎 𝚖𝚊𝚒𝚗𝚕𝚢  ·
+$\color{#AED5F6}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$   
+</p>
 
 <p align="center">
 <table>
