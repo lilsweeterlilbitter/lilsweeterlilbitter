@@ -15,7 +15,7 @@ i get quiet to recharge, **not to ignore** • i listen even when __idk what to 
 </tr>
 </table>
 
-$\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰}}$
+$\color{#AED5F6}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰}}$
 
 </div>
 
@@ -55,7 +55,7 @@ I am not currently capable of carrying the emotional responsibility that comes w
 </details>
 </p>
 
-$\color{#AAC79D}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰}}$
+$\color{#AED5F6}{\textsf{▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰▱▰}}$
 
 </div>
 
@@ -81,7 +81,7 @@ i reserve the right to bully batman.
 </div>
 
 <p align="center">
-$\color{#AAC79D}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> $\color{#AAC79D}{\textsf{໒꒱}}$
+$\color{#4FACE5}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/6d5f10_26Untitled50-20260811020634.png" width="200"> $\color{#4FACE5}{\textsf{໒꒱}}$
 </p>
 <p align="center">
 <sub>
@@ -90,6 +90,6 @@ $\color{#AAC79D}{\textsf{꒰১}}$ <img src="https://uploadkon.ir/uploads/6d5f10
 </p>
 <p align="center">
 <sub>
-$\color{#AAC79D}{\textsf{"𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒉𝒆 𝒕𝒐𝒐𝒌 𝒎𝒆 𝒂𝒘𝒂𝒚 𝒇𝒓𝒐𝒎 𝒚𝒐𝒖."}}$
+$\color{#AED5F6}{\textsf{"𝒃𝒆𝒄𝒂𝒖𝒔𝒆 𝒉𝒆 𝒕𝒐𝒐𝒌 𝒎𝒆 𝒂𝒘𝒂𝒚 𝒇𝒓𝒐𝒎 𝒚𝒐𝒖."}}$
 </sub>
 </p>
