@@ -49,7 +49,7 @@ $\color{#AED5F6}{\textsf{𝚌+𝚑 + 𝚒𝚗𝚝}}$
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=17&duration=3000&pause=600&color=4FACE5&center=true&multiline=true&width=400&lines=%22It%E2%80%99s+because%E2%80%A6;+I+love+you+a+little+more+than+you+realise.%22)](https://git.io/typing-svg)
 
 <p align="center">
-<img src="https://uploadkon.ir/uploads/236418_26Untitled54-20260918174953.png" width="350">
+<img src="https://i.ibb.co/RVFHf8R/Untitled54-20260918174953.png" width="350">
 ‌</p>
 
 ![Currently listening to](https://lastfm-profile-readme.vercel.app/api/empress_shell?color=AED5F6&textColor=3A4A88&isRounded=true)
